@@ -1,0 +1,1745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Amherst College",
+        "school_type": "College",
+        "student_count": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5170028,
+          42.3709104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Annie Wright Schools",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.459469,
+          47.268669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Babson College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2657077,
+          42.2964421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Bard College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.909314,
+          42.0230728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Berkhamsted Sixth Form",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5612578,
+          51.76026599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Berkshire School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4162715,
+          42.1170873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Bishop Stortford's College",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1484885,
+          51.8717237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Blair Academy",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9637834,
+          40.98601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Bowdoin College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9639971,
+          43.9076929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Brandeis University",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2586441,
+          42.36535689999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Brown University",
+        "school_type": "College",
+        "student_count": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.4025482,
+          41.8267718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Carleton College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1559742,
+          44.4613633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Cheshire Academy",
+        "school_type": "School",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9106202,
+          41.5083668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Choate Rosemary Hall",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8095795,
+          41.4573834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Colgate University",
+        "school_type": "College",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53679785209032,
+          42.8186336135428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Columbia University",
+        "school_type": "College",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9625727,
+          40.8075355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Connecticut College",
+        "school_type": "College",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.10434289999999,
+          41.3797568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Cornell University",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4735027,
+          42.4534492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Dartmouth College",
+        "school_type": "College",
+        "student_count": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2886934,
+          43.7044406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Davidson College",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8423248,
+          35.5015528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Deerfield Academy",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6076286,
+          42.546129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Dickinson College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2008334,
+          40.2027462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Duke Kunshan University",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9014167,
+          31.415978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Dulwich College",
+        "school_type": "School",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.08554919999999999,
+          51.438894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Eatsbourne College",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2804322,
+          50.7635897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Emma Willard School",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.66434699999999,
+          42.7124471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Emory University",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.32224,
+          33.7971368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Episcopal High School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0939697,
+          38.8244216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Ethel Walker School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8316078,
+          41.8491469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Franklin & Marshall University",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3199261,
+          40.04874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Fryeburg Academy",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9752104,
+          44.0199809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Georgetown University",
+        "school_type": "College",
+        "student_count": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07225849999999,
+          38.9076089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Georgetown University Qatar",
+        "school_type": "College",
+        "student_count": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.443331,
+          25.318211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Glenalmond College",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6603077,
+          56.44149909999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Godolphin School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7855919,
+          51.0686105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Gould Academy",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7930885,
+          44.40830709999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Grinnell College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7201302,
+          41.749223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Hamilton College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4059719,
+          43.0527984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Harrow School",
+        "school_type": "School",
+        "student_count": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3334223000000001,
+          51.5725237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Harvard University",
+        "school_type": "College",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1182488,
+          42.3744368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Harvey Mudd College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7086431,
+          34.1060906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Haverford College",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3051299,
+          40.00744230000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Hill School",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.63059899999999,
+          40.2470492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Illinois Institute of Technology",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6270059,
+          41.8348731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Iolani School",
+        "school_type": "School",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8253249,
+          21.2855956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Ipswich School (UK)",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1516667,
+          52.0641736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Jacobs University Bremen",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6516237,
+          53.1670277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Kenyon College",
+        "school_type": "College",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.39579330000001,
+          40.376152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Keystone Academy (Beijing)",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.407395,
+          39.904211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Kingswood School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3698044,
+          51.3988331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Korea Advanced Institute of Science and Technology",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.36039,
+          36.3721427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Lafayette College",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2101079,
+          40.6984713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Lake Forest Academy",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.89077130000001,
+          42.2480495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Lehigh University",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3775187,
+          40.6048687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Leysin American School",
+        "school_type": "School",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0064329,
+          46.3451305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Masters School",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8704314,
+          41.0109547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Mercersburg Academy",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89986250000001,
+          39.8255945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Middlebury College",
+        "school_type": "College",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1760412,
+          44.0081076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Middlesex School",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.36838039999999,
+          42.4967623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Milton Academy",
+        "school_type": "School",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.06999119999999,
+          42.2565605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Minerva University",
+        "school_type": "College",
+        "student_count": "10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4081769,
+          37.7827881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "MIT",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09416,
+          42.360091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Northfield Mount Hermon School",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.48384349999999,
+          42.6704713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Northwestern University",
+        "school_type": "College",
+        "student_count": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.67526699999999,
+          42.0564594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "NYU Abu Dhabi",
+        "school_type": "College",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.4346246,
+          24.5239067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Oberlin College",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.22108899999999,
+          41.2958696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Phillips Academy Andover",
+        "school_type": "School",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1323093,
+          42.6471696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Phillips Exeter Academy",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9517548,
+          42.9810944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Pomona College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.711806,
+          34.0977461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Princeton University",
+        "school_type": "College",
+        "student_count": "7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.65507389999999,
+          40.3430942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Queen Anne's School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9672493999999999,
+          51.4714373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Queenswood School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1672033,
+          51.7148191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Reed College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6308086,
+          45.4810848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Reed's School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3762812,
+          51.3386274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Repton School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5530258,
+          52.8399741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Rice University",
+        "school_type": "College",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.40183119999999,
+          29.7173941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Rugby School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2615655,
+          52.370303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Sewanee: the University of the South",
+        "school_type": "College",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9176238,
+          35.2050343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Smith College",
+        "school_type": "College",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6403095,
+          42.3162992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "St. Andrew's School (Florida)",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.14702989999999,
+          26.3847142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "St. Andrew’s School",
+        "school_type": "School",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.68886359999999,
+          39.4335635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "St. Edmund's School (UK)",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0593837,
+          51.29151479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "St. Mark's School",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.52967079999999,
+          42.3090027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "St. Paul's School",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.574232,
+          43.1946628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Stanford University",
+        "school_type": "College",
+        "student_count": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.17006,
+          37.42766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Stockholm School of Economics in Riga",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1076194,
+          56.9591376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Suffield Academy",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.65085979999999,
+          41.9851219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Swarthmore College",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3526567,
+          39.90383300000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Tabor Academy",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.767304,
+          41.7080104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Taft School",
+        "school_type": "School",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1238846,
+          41.6034679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "The Ethel Walker School",
+        "school_type": "School",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8316078,
+          41.8491469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "The Frederick Gunn School",
+        "school_type": "School",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3115905,
+          41.6279566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "The Hotchkiss School",
+        "school_type": "School",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.43986389999999,
+          41.94492779999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "The Lawrenceville School",
+        "school_type": "School",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7249281,
+          40.294186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Tonbridge School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.275166,
+          51.200123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Trinity College",
+        "school_type": "College",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6905038,
+          41.7477163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Tufts University",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1182729,
+          42.4085371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "University of British Columbia",
+        "school_type": "College",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2459939,
+          49.26060520000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "University of California, Berkeley (Rise Scholarship)",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.273042,
+          37.8715226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "University of Chicago",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5987133,
+          41.7886079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "University of New Hampshire",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.9370252,
+          43.138948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "University of North Carolina at Chapel Hill",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0469134,
+          35.9049122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "University of Pennsylvania",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1932137,
+          39.9522188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "University of Richmond",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5397192,
+          37.5758243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Vanderbilt University",
+        "school_type": "College",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8026551,
+          36.1447034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Vassar College",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8936812,
+          41.68667809999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Washington and Lee University",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4458935,
+          37.7898776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Washington University in St. Louis",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.31079620000001,
+          38.6487895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Wellesley College",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3059277,
+          42.2935733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Wesleyan University",
+        "school_type": "College",
+        "student_count": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6568336,
+          41.5567587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "West Buckland School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9046885,
+          51.0668874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Westminister School",
+        "school_type": "School",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7964665,
+          41.8896983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Williams College",
+        "school_type": "College",
+        "student_count": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.20313949999999,
+          42.7128843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Woodberry Forest School",
+        "school_type": "School",
+        "student_count": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1218027,
+          38.2911875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Woodside Priory School",
+        "school_type": "School",
+        "student_count": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2125591,
+          37.3760382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "school": "Yale University",
+        "school_type": "College",
+        "student_count": "9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.92234309999999,
+          41.3163244
+        ]
+      }
+    }
+  ]
+}

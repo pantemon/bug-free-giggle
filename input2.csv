@@ -1,0 +1,116 @@
+school,school_type,latitude,longitude,student_count
+Amherst College,College,"42.3709104, -72.5170028",5
+Annie Wright Schools,School,"47.268669, -122.459469",2
+Babson College,College,"42.2964421, -71.2657077",1
+Bard College,College,"42.0230728, -73.909314",1
+Berkhamsted Sixth Form,School,"51.76026599999999, -0.5612578",1
+Berkshire School,School,"42.1170873, -73.4162715",1
+Bishop Stortford's College,School,"51.8717237, 0.1484885",1
+Blair Academy,School,"40.98601, -74.9637834",2
+Bowdoin College,College,"43.9076929, -69.9639971",1
+Brandeis University,College,"42.36535689999999, -71.2586441",2
+Brown University,College,"41.8267718, -71.4025482",7
+Carleton College,College,"44.4613633, -93.1559742",1
+Cheshire Academy,School,"41.5083668, -72.9106202",0
+Choate Rosemary Hall,School,"41.4573834, -72.8095795",1
+Colgate University,College,"42.8186336135428, -75.53679785209032",0
+Columbia University,College,"40.8075355, -73.9625727",3
+Connecticut College,College,"41.3797568, -72.10434289999999",0
+Cornell University,College,"42.4534492, -76.4735027",2
+Dartmouth College,College,"43.7044406, -72.2886934",6
+Davidson College,College,"35.5015528, -80.8423248",2
+Deerfield Academy,School,"42.546129, -72.6076286",2
+Dickinson College,College,"40.2027462, -77.2008334",1
+Duke Kunshan University,College,"31.415978, 120.9014167",2
+Dulwich College,School,"51.438894, -0.08554919999999999",0
+Eatsbourne College,School,"50.7635897, 0.2804322",1
+Emma Willard School,School,"42.7124471, -73.66434699999999",2
+Emory University,College,"33.7971368, -84.32224",1
+Episcopal High School,School,"38.8244216, -77.0939697",1
+Ethel Walker School,School,"41.8491469, -72.8316078",1
+Franklin & Marshall University,College,"40.04874, -76.3199261",1
+Fryeburg Academy,School,"44.0199809, -70.9752104",1
+Georgetown University,College,"38.9076089, -77.07225849999999",5
+Georgetown University Qatar,College,"25.318211, 51.443331",5
+Glenalmond College,School,"56.44149909999999, -3.6603077",1
+Godolphin School,School,"51.0686105, -1.7855919",1
+Gould Academy,School,"44.40830709999999, -70.7930885",2
+Grinnell College,College,"41.749223, -92.7201302",1
+Hamilton College,College,"43.0527984, -75.4059719",1
+Harrow School,School,"51.5725237, -0.3334223000000001",4
+Harvard University,College,"42.3744368, -71.1182488",3
+Harvey Mudd College,College,"34.1060906, -117.7086431",1
+Haverford College,College,"40.00744230000001, -75.3051299",2
+Hill School,School,"40.2470492, -75.63059899999999",2
+Illinois Institute of Technology,College,"41.8348731, -87.6270059",1
+Iolani School,School,"21.2855956, -157.8253249",3
+Ipswich School (UK),School,"52.0641736, 1.1516667",1
+Jacobs University Bremen,College,"53.1670277, 8.6516237",1
+Kenyon College,College,"40.376152, -82.39579330000001",3
+Keystone Academy (Beijing),School,"39.904211, 116.407395",1
+Kingswood School,School,"51.3988331, -2.3698044",1
+Korea Advanced Institute of Science and Technology,College,"36.3721427, 127.36039",1
+Lafayette College,School,"40.6984713, -75.2101079",2
+Lake Forest Academy,School,"42.2480495, -87.89077130000001",1
+Lehigh University,College,"40.6048687, -75.3775187",1
+Leysin American School,School,"46.3451305, 7.0064329",0
+Masters School,School,"41.0109547, -73.8704314",2
+Mercersburg Academy,School,"39.8255945, -77.89986250000001",1
+Middlebury College,College,"44.0081076, -73.1760412",3
+Middlesex School,School,"42.4967623, -71.36838039999999",2
+Milton Academy,School,"42.2565605, -71.06999119999999",3
+Minerva University,College,"37.7827881, -122.4081769",10
+MIT,College,"42.360091, -71.09416",2
+Northfield Mount Hermon School,School,"42.6704713, -72.48384349999999",2
+Northwestern University,College,"42.0564594, -87.67526699999999",5
+NYU Abu Dhabi,College,"24.5239067, 54.4346246",3
+Oberlin College,College,"41.2958696, -82.22108899999999",2
+Phillips Academy Andover,School,"42.6471696, -71.1323093",0
+Phillips Exeter Academy,School,"42.9810944, -70.9517548",1
+Pomona College,College,"34.0977461, -117.711806",1
+Princeton University,College,"40.3430942, -74.65507389999999",7
+Queen Anne's School,School,"51.4714373, -0.9672493999999999",1
+Queenswood School,School,"51.7148191, -0.1672033",1
+Reed College,College,"45.4810848, -122.6308086",1
+Reed's School,School,"51.3386274, -0.3762812",1
+Repton School,School,"52.8399741, -1.5530258",1
+Rice University,College,"29.7173941, -95.40183119999999",0
+Rugby School,School,"52.370303, -1.2615655",1
+Sewanee: the University of the South,College,"35.2050343, -85.9176238",3
+Smith College,College,"42.3162992, -72.6403095",3
+St. Andrew's School (Florida),School,"26.3847142, -80.14702989999999",1
+St. Andrew’s School,School,"39.4335635, -75.68886359999999",0
+St. Edmund's School (UK),School,"51.29151479999999, 1.0593837",1
+St. Mark's School,School,"42.3090027, -71.52967079999999",2
+St. Paul's School,School,"43.1946628, -71.574232",2
+Stanford University,College,"37.42766, -122.17006",4
+Stockholm School of Economics in Riga,College,"56.9591376, 24.1076194",1
+Suffield Academy,College,"41.9851219, -72.65085979999999",1
+Swarthmore College,College,"39.90383300000001, -75.3526567",2
+Tabor Academy,School,"41.7080104, -70.767304",1
+Taft School,School,"41.6034679, -73.1238846",3
+The Ethel Walker School,School,"41.8491469, -72.8316078",0
+The Frederick Gunn School,School,"41.6279566, -73.3115905",0
+The Hotchkiss School,School,"41.94492779999999, -73.43986389999999",2
+The Lawrenceville School,School,"40.294186, -74.7249281",0
+Tonbridge School,School,"51.200123, 0.275166",1
+Trinity College,College,"41.7477163, -72.6905038",0
+Tufts University,College,"42.4085371, -71.1182729",1
+University of British Columbia,College,"49.26060520000001, -123.2459939",3
+University of Chicago,College,"41.7886079, -87.5987133",1
+University of New Hampshire,College,"43.138948, -70.9370252",1
+University of North Carolina at Chapel Hill,College,"35.9049122, -79.0469134",1
+University of Pennsylvania,College,"39.9522188, -75.1932137",2
+University of Richmond,College,"37.5758243, -77.5397192",2
+Vanderbilt University,College,"36.1447034, -86.8026551",3
+Vassar College,College,"41.68667809999999, -73.8936812",2
+Washington and Lee University,College,"37.7898776, -79.4458935",1
+Washington University in St. Louis,College,"38.6487895, -90.31079620000001",1
+Wellesley College,College,"42.2935733, -71.3059277",2
+Wesleyan University,College,"41.5567587, -72.6568336",2
+West Buckland School,School,"51.0668874, -3.9046885",1
+Westminister School,School,"41.8896983, -72.7964665",1
+Williams College,College,"42.7128843, -73.20313949999999",1
+Woodberry Forest School,School,"38.2911875, -78.1218027",3
+Woodside Priory School,School,"37.3760382, -122.2125591",0
+Yale University,College,"41.3163244, -72.92234309999999",9
