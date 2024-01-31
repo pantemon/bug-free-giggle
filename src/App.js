@@ -26,11 +26,11 @@ export default function App() {
       // Add a new source from our GeoJSON data and
       // set the 'cluster' option to true. GL-JS will
       // add the point_count property to your source data.
-      map.current.addSource('earthquakes', {
+      map.current.addSource('schools', {
         type: 'geojson',
         // Point to GeoJSON data. This example visualizes all M1.0+ earthquakes
         // from 12/22/15 to 1/21/16 as logged by USGS' Earthquake hazards program.
-        data: 'https://docs.mapbox.com/mapbox-gl-js/assets/earthquakes.geojson',
+        data: '/data.geojson',
         cluster: true,
         clusterMaxZoom: 14, // Max zoom to cluster points on
         clusterRadius: 50 // Radius of each cluster when clustering points (defaults to 50)
@@ -39,7 +39,7 @@ export default function App() {
       map.current.addLayer({
         id: 'clusters',
         type: 'circle',
-        source: 'earthquakes',
+        source: 'schools',
         filter: ['has', 'point_count'],
         paint: {
           // Use step expressions (https://docs.mapbox.com/style-spec/reference/expressions/#step)
@@ -71,7 +71,7 @@ export default function App() {
       map.current.addLayer({
         id: 'cluster-count',
         type: 'symbol',
-        source: 'earthquakes',
+        source: 'schools',
         filter: ['has', 'point_count'],
         layout: {
           'text-field': ['get', 'point_count_abbreviated'],
@@ -83,7 +83,7 @@ export default function App() {
       map.current.addLayer({
         id: 'unclustered-point',
         type: 'circle',
-        source: 'earthquakes',
+        source: 'schools',
         filter: ['!', ['has', 'point_count']],
         paint: {
           'circle-color': '#11b4da',
@@ -101,7 +101,7 @@ export default function App() {
 
         const clusterId = features[0].properties.cluster_id;
 
-        map.current.getSource('earthquakes').getClusterExpansionZoom(
+        map.current.getSource('schools').getClusterExpansionZoom(
           clusterId,
           (err, zoom) => {
             if (err) return;
@@ -120,9 +120,10 @@ export default function App() {
       // description HTML from its properties.
       map.current.on('click', 'unclustered-point', (e) => {
         const coordinates = e.features[0].geometry.coordinates.slice();
-        const mag = e.features[0].properties.mag;
-        const tsunami =
-          e.features[0].properties.tsunami === 1 ? 'yes' : 'no';
+
+        const school = e.features[0].properties.school;
+        const school_type = (e.features[0].properties.school_type).toLowerCase();
+        const student_count = e.features[0].properties.student_count;
 
         // Ensure that if the map is zoomed out such that
         // multiple copies of the feature are visible, the
@@ -131,10 +132,12 @@ export default function App() {
           coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
         }
 
+        const description = student_count == 1 ? `There is 1 student attending this ${school_type}.` : `There are ${student_count} students attending this ${school_type}.`
+
         new mapboxgl.Popup()
           .setLngLat(coordinates)
           .setHTML(
-            `magnitude: ${mag}<br>Was there a tsunami?: ${tsunami}`
+            `<h3>${school}</h3><p>${description}</p>`
           )
           .addTo(map.current);
       });
